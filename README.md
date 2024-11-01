@@ -5,7 +5,7 @@
 <h3> <a href="https://github.com/yonismuse/network-file-shares">Active Directory Infrastructure Project Part 2</a></h3>
 
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+This part of the project outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
 
 <h2>Environments and Technologies Used</h2>
 
